@@ -7,7 +7,7 @@ for (let i = 0; i < nilai.length; i++) {
     jumlahSiswa += siswa[i];
   }
 }
-
+// menampilkan output 
 console.log(
   `Jumlah siswa yang mendapatkan nilai lebih dari 60 adalah: ${jumlahSiswa}`
 );
